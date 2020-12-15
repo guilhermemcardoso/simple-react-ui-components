@@ -1,0 +1,41 @@
+{
+  "name": "simple-react-ui-components",
+  "homepage": "https://github.com/guilhermemcardoso/simple-react-ui-components#readme",
+  "version": "0.1.0",
+  "description": "A simple UI components lib",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Cardoso",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermemcardoso/simple-react-ui-components"
+  },
+  "bugs": {
+    "url": "https://github.com/guilhermemcardoso/simple-react-ui-components/issues"
+  },
+  "keywords": [
+    "components",
+    "ui",
+    "react-native",
+    "react",
+    "ui-components",
+    "react-components"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.4"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.2.1"
+  }
+}
